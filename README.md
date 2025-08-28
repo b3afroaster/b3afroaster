@@ -11,7 +11,7 @@
 
 - ## 📄 HeadHunter profile 
 
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/[(https://hh.ru/resume/b1d7cc84ff0e5712d50039ed1f674d595a3237)])
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/b1d7cc84ff0e5712d50039ed1f674d595a3237)
 
 <p align="left">
 </p>
